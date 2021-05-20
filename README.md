@@ -11,5 +11,5 @@ I'm a full-stack web and mobile developer based in Avignon, France.
 
 ## Social Network 
 
-- [LinkedIn](https://www.linkedin.com/in/luc-boukorras-5a1246212/)
+- [LinkedIn](https://www.linkedin.com/in/luc-boukorras/)
 - [Twitter](https://twitter.com/AlgoLuc)

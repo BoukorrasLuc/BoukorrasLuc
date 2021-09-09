@@ -17,7 +17,7 @@
 
 ### If you want to talk to me
 
-- [LinkedIn](https://www.linkedin.com/in/luc-boukorras/)
+- [Linkedin](https://www.linkedin.com/in/luc-boukorras/)
 - [Twitter](https://twitter.com/AlgoLuc)
 - [Portfolio](https://boukorras-luc.netlify.app/)
 

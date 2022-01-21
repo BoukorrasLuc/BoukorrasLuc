@@ -4,7 +4,11 @@
 
  <h4 align='center'> I'm a full-stack web and mobile developer based in Avignon, France. </h4>
 
+<div align="center">
+ 
 ### What I know
+ 
+</div>
 
 <div align="center">
 <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Javascript_dm6hg3.svg" /> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/React_pkhicq.svg" /> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Node_e6jl9p.svg" /> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Html_vu9pzw.svg" />
@@ -15,12 +19,14 @@
 <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Sass_m8gxei.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209794/Svg/Css_e1tghb.svg"/> 
 </div>
 
+ <div align="center"> 
+
 ### If you want to talk to me
 
-- [Linkedin](https://www.linkedin.com/in/luc-boukorras/)
-- [Twitter](https://twitter.com/AlgoLuc)
-- [Portfolio](https://boukorras-luc.netlify.app/)
-
+ [Linkedin](https://www.linkedin.com/in/luc-boukorras/)
+ [Twitter](https://twitter.com/AlgoLuc)
+ [Portfolio](https://boukorras-luc.netlify.app/)
+</div>
 
 
  <div align="center"> 

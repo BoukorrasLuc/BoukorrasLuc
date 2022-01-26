@@ -24,7 +24,7 @@
 ### If you want to talk to me
 
  [Linkedin](https://www.linkedin.com/in/luc-boukorras/)
- [Twitter](https://twitter.com/AlgoLuc)
+ [Twitter](https://twitter.com/LucBoukorras) 
  [Portfolio](https://boukorras-luc.netlify.app/)
 </div>
 

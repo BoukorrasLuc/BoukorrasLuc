@@ -19,6 +19,11 @@
 <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Sass_m8gxei.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209794/Svg/Css_e1tghb.svg"/> 
 </div>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoukorrasLuc)](https://github.com/BoukorrasLuc/github-readme-stats)
+[![Boukorras's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoukorrasLuc)](https://github.com/BoukorrasLuc/github-readme-stats)
+
+
+
  <div align="center"> 
 
 ### If you want to talk to me

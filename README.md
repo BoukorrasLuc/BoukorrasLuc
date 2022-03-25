@@ -17,11 +17,9 @@
 <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209794/Svg/Yarn_gbjudg.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209794/Svg/Github_w21zgh.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209793/Svg/Git_ahxily.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Npm_ui5eag.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631218573/Svg/Heroku_h6lxh0.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631218573/Svg/Netlify_akakgo.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631218573/Svg/Postman_qlsbgn.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631218573/Svg/Expo_rldgyw.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631218573/Svg/mongodb_ly933d.svg"/> 
   
 <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209792/Svg/Sass_m8gxei.svg"/> <img src="https://res.cloudinary.com/dgu3expdz/image/upload/v1631209794/Svg/Css_e1tghb.svg"/> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoukorrasLuc"/> 
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoukorrasLuc)](https://github.com/BoukorrasLuc/github-readme-stats)
-[![Boukorras's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoukorrasLuc)](https://github.com/BoukorrasLuc/github-readme-stats)
-
 
 
  <div align="center"> 

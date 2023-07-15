@@ -30,7 +30,7 @@
 ### If you want to talk to me
 
  [Linkedin](https://www.linkedin.com/in/luc-boukorras/)
- [Twitter](https://twitter.com/LucBoukorras) 
+ [Twitter](https://twitter.com/fb1cc8d3) 
 </div>
 
 

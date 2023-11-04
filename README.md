@@ -1,12 +1,12 @@
  <h1 align='center'>
- Hi there , I'm Boukorras Luc👋
+ Welcome, I'm Luc Boukorras! 👋
  </h1>
 
- <h4 align='center'> I'm a full-stack web and mobile developer based in Avignon, France. </h4>
+ <h4 align='center'> Developer based in Avignon, France. </h4>
 
 <div align="center">
  
-### What I know
+### Skills
  
 </div>
 
@@ -27,16 +27,19 @@
 
  <div align="center"> 
 
-### If you want to talk to me
+### Connect with me
 
- [Linkedin](https://www.linkedin.com/in/luc-boukorras/)
- [Twitter](https://twitter.com/fb1cc8d3) 
+<a href="https://twitter.com/fb1cc8d3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luc-boukorras" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+
 </div>
 
 
  <div align="center"> 
-  Thank You for visiting my profile, see you next time!
+  Thanks for visiting my profile! See you soon.
   <br>
   <br>
   <img src="https://profile-counter.glitch.me/BoukorrasLuc/count.svg" />
+</div>
+
 </div>

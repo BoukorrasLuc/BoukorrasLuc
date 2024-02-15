@@ -12,24 +12,6 @@ I'm passionate about Hacking, Blockchain, and Retro gaming. I love exploring new
 
 </div>
 
-<div align="center">
-
-### Skills
-
-I have experience with a range of programming languages and frameworks, including:
-
- JavaScript
- Node
- React
- Nest
- Vue
- Remix
-TypeScript
-Solidity
-<div>
-
-<div align="center">
-
 ### Connect with Me
 
 <a href="https://twitter.com/fb1cc8d3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
